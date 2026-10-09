@@ -2,7 +2,7 @@
 
 **`Desenvolvedor**
 
-programo em lua e em C
+programo em lua e em C, também sei HTML CSS e javascript(Básico)
 
 <p align="left">
     
