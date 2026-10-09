@@ -63,7 +63,6 @@ Utilizo ferramentas como RayLib e Love2D
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg"
-" 
 />
 
 
