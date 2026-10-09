@@ -2,7 +2,8 @@
 
 **`Desenvolvedor**
 
-programo em lua e em C, também sei HTML CSS e javascript(Básico)
+programo em Lua e em C, também sei HTML CSS e javascript(Básico)
+Utilizo ferramentas como RayLib e Love2D
 
 <p align="left">
     
@@ -48,12 +49,24 @@ programo em lua e em C, também sei HTML CSS e javascript(Básico)
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LUA"
+    title="LUA" 
     width="30px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Love2d"
+    title="Love2d" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg"
+" 
+/>
+
+
 
 <img
     align="left" 
@@ -63,7 +76,14 @@ programo em lua e em C, também sei HTML CSS e javascript(Básico)
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
